@@ -1,0 +1,8 @@
+jupyter
+nltk
+numpy
+pandas
+PyQt5
+python-twitter
+sip
+sqlalchemy
